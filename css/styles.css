@@ -74,9 +74,15 @@ h3 {
   height: 100px;
 }
 hr {
-  width: 100px;
-  border-style: dotted none none none;
-  border-width: 5px;
-  border-top-color #150e56;
-  margin=20px;
+     border-color: #150e56;
+    border-width: thick;
+    margin-bottom: 50px;
+    border: dotted;
+    height: 0;
+    margin-top: 50px;
+    border-bottom-width: thick;
+    border-top: none;
+    width: 15%;
+    border-right: none;
+    border-left: none;
 }
